@@ -1,0 +1,11 @@
+.widgetWrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 auto;
+  width: 400px;
+  height: 350px;
+  outline: 1px solid black;
+  padding: 50px;
+  user-select: none;
+}
